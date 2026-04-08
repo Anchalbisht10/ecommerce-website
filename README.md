@@ -20,3 +20,7 @@ A frontend e-commerce application that allows users to browse products, add item
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm start`
+
+## Live Demo
+Check out the live project here:
+[E-commerce](https://ecommerce-website-two-flax.vercel.app)
